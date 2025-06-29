@@ -1,2 +1,2 @@
 # api-students
-Api to 'Golang dp Zero' Course
+Api to 'Golang do Zero' Course
